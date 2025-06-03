@@ -39,13 +39,19 @@ This Python-MySQL banking system utilizes PyMySQL and stored procedures. It feat
 Ensure the following project structure:
 - src/
   - account.py
+  - database.py
+  - display.py
   - insurance.py
   - investment.py
   - loan.py
+  - main.py
   - register.py
   - transaction.py
-  - bank_db_project.sql
-  - procedures.sql
+- sql/
+  - bank_db_project_dump.sql
+  - bank_dbprocedures.sql
+  - bank_management_system_project.sql
+  - insert script.sql
 
 ## Running the Application
 1.  Launch the main application by running: python main.py
