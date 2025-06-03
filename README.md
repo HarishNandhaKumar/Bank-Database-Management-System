@@ -3,8 +3,8 @@ Project Name: Bank Database Management System
 
 ## Team Members
 
-- **Harish Nandha Kumar
-- ** Lin Pyae Toe
+- **Harish Nandha Kumar**
+- **Lin Pyae Toe**
 
 ## Description
 
